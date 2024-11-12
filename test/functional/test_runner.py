@@ -197,6 +197,7 @@ BASE_SCRIPTS = [
     'wallet_txn_clone.py',
     'wallet_txn_clone.py --segwit',
     'rpc_getchaintips.py',
+    'rpc_listmempooltransactions.py',
     'rpc_misc.py',
     'p2p_1p1c_network.py',
     'p2p_opportunistic_1p1c.py',
